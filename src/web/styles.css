@@ -1,0 +1,40 @@
+<!-- Auto-generated: styles — stylesheet definitions v9863 -->
+<div class="styles-—-stylesheet-definitions-9863">
+  <header class="grid">
+    <h2>styles — stylesheet definitions</h2>
+    <nav class="nav-9863">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="card">
+    <div class="content">
+      <p>Generated component for styles — stylesheet definitions</p>
+      <span class="badge badge-9863">v9863</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.styles-—-stylesheet-definitions-9863 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 10px;
+  padding: 9px;
+  background: #080b27;
+  border-radius: 9px;
+  border: 1px solid #b1c5c2;
+}
+.styles-—-stylesheet-definitions-9863 .grid {
+  color: #fe750b;
+  font-size: 19px;
+  font-weight: 700;
+}
+.badge-9863 {
+  background: #b1c5c2;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 5px;
+  font-size: 10px;
+}
+</style>
